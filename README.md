@@ -10,7 +10,7 @@
 ## General Information
 **School：** Information science and Engineering Department of Ocean University of China  
 **educational：** Master degree 
-email：**yangzichao@stu.ouc.edu.cn
+email：**yangzichao@stu.ouc.edu.cn**
 
 ## Education
  2021/09-present，Ocean University of China, China, Computer Science, Master degree, Adviser Prof. [Zhigang Wang](https://wzgcs.github.io/english.html)  
