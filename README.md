@@ -18,5 +18,8 @@ email：**yangzichao@stu.ouc.edu.cn**
 
 ## Honors
 * 2022，Efficient Data Partitioning Algorithm Software for Parallel FVCOM Computing on Heterogeneous NetworksV1.0（Software Copyright）
+* 2019，Auxiliary support devices and two-wheelers（Patent）
+* 2019，A folding canopy structure（Patent）
+* 2019，A kind of swinging frame and device for plate loading and unloading and machining center(Patent)
 
 **Update time：2023/06/14**   
